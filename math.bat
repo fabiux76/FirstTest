@@ -14,3 +14,5 @@ echo $c
 #Modifica sul First Branch
 
 # Modifica sul master
+
+Modifica sul master dopo che lo hanno clonato
