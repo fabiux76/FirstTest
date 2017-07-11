@@ -15,4 +15,4 @@ echo $c
 
 # Modifica sul master
 
-Modifica sul master dopo che lo hanno clonato
+Modifica sul master dopo che lo hanno clonato, e 2
