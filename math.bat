@@ -16,3 +16,5 @@ echo $c
 # Modifica sul master
 
 Modifica sul master dopo che lo hanno clonato, e 2
+
+Modifica su cloned clear
